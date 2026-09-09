@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working with vibe coding
-- 🌱 I’m currently learning Android development
-- 👯 I’m looking to collaborate on on blockchain, machine learning, artificial intelligence, cyber security.
-- ⚡ Fun fact:  I do graphics designing as well as video editing.
+-  I’m currently learning Android development
+-  Fun fact:  I do graphics designing as well as video editing.
 
 
 
